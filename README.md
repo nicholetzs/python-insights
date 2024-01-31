@@ -1,6 +1,6 @@
 # Python Insights is about gain an intuitive, accurate, and deep understanding of a dataset and what they can predict 📊
-# Python Insights - Analyzing Data with Python
-# Case - Customer Cancellation
+# Python Insights - Analyzing Data with Python 📶
+# Case - Customer Cancellation 𐙚
 
 Scenario: You were hired by a company with more than 800,000 clients for a Data project. Recently, the company realized that of its total customer base, the majority are inactive customers, that is, those who have already canceled the service.
 Needing to improve her results, she wants to be able to understand the main reasons for these cancellations and what are the most efficient actions to reduce this number.
