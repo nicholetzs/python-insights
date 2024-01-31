@@ -35,3 +35,5 @@ for coluna in tabela.columns:
     grafico = px.histogram(tabela, x=coluna, color="cancelou")
      # Display the plot
     grafico.show()
+
+    # Finally, I recommend installing the Jupyter extension in VSCODE and using the code provided to better visualize the data and charts, which I haven't put here ദ്ദി ˉ͈̀꒳ˉ͈́ )✧
