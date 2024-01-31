@@ -1,6 +1,8 @@
 # Python Insights is about gain an intuitive, accurate, and deep understanding of a dataset and what they can predict 📊
 
-In the archive.py file, you can use it as a normal file in your code editor. Below, I'll give you the code to use in the Jupyter Notebook:
+In the archive.py file, you can use it as a normal file in your code editor. I don't usually csv the database because of the size, but you can use your own database in a variety of ways and modify the code as needed. 
+
+---> Below, I'll give you the code to use in the Jupyter Notebook:
 
 # Step 1: Import the dataset
 import pandas as pd
